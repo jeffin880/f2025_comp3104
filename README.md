@@ -9,3 +9,4 @@
 
 # pre-push
 node --version
+npm run test
