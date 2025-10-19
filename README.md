@@ -8,3 +8,4 @@
 
 
 # pre-push
+node --version
